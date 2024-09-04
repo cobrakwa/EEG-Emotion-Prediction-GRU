@@ -1,3 +1,3 @@
-Using GNU model to predict Positive/Neutral/Negative emotions from EEG readings.
+Using GRU (adaptation of LSTM) model to predict Positive/Neutral/Negative emotions from EEG readings.
 
-Simply run all cells, except the 2-layer Hidden NN.
+Simply run all cells to see results.
